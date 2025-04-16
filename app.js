@@ -14,3 +14,5 @@ $(document).on("change", "input[type=checkbox]", function () {
     $(this).parent().css("color", "#000");
   }
 });
+
+//変更
